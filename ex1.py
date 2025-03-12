@@ -30,7 +30,7 @@ def main():
     variacao = calcular_variacao(temperatura_maxima, temperatura_minima)
     
     # Exibir resultados
-    print(f"A média entre a temperatura máxima e mínima é: {media:.2f}")
+    print(f"A média entre atemperatura máxima e mínima é: {media:.2f}")
     print(f"A variação entre as temperaturas é: {variacao:.2f}")
     
     # Obter número para soma dos dígitos
